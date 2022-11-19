@@ -4,6 +4,7 @@ Curso backend
 ## Clases
 
 - 💪🏻 Clase 1 11-12-2022 [Repaso javascript variables, funciones, clases](https://coderhouse.zoom.us/rec/share/nsc5k4klm5bs8pPNRRFOIp7ANgZ72WczCV1P4boEcvdg5DcOyitlsoZrOS212J3k.yFBNnQhhXvEjinhV)
+- 💪🏻 Clase 2 18-12-2022 [Repaso funciones, callbacks, async/await]()
 
 ## Afterclass
 
