@@ -187,3 +187,141 @@ ticketManager.agregarUsuario(1, "Backend");
 ticketManager.agregarUsuario(3, "Backend");
 ticketManager.ponerEventoEnGira(1, "lugar3", new Date("12/12/2022"));
 ticketManager.ponerEventoEnGira(4, "lugar3", new Date("12/12/2022"));
+
+
+//callbacks
+
+const suma = (a, b) => {
+ return a+b
+}
+const resta = (a, b) => {
+ return a-b
+}
+const multipicacion = (a, b) => {
+ return a*b
+}
+const division = (a, b) => {
+ return a/b
+}
+
+function operaciones(a, b, callback){
+  console.log(callback(a,b))
+}
+
+operaciones(1,2,suma)
+operaciones(1,2,resta)
+operaciones(1,2,multipicacion)
+operaciones(1, 2, division)
+
+// Promises
+
+const divisionPromesa = (a, b) => {
+  return new Promise((resolve, reject) => {
+    if (b === 0) {
+      reject('Division: No se puede resolver')
+    } else {
+      resolve(a/b)
+    }
+  })
+}
+
+// console.log(divisionPromesa(1,2))
+// console.log(divisionPromesa(1, 0))
+
+// divisionPromesa(1, 3)
+//   .then(resultado => {
+//     console.log(resultado)
+//     return resultado
+//   })
+//   .then (resultado=>{console.log(resultado*2)})
+//   .catch(error=>console.log(error))
+
+// divisionPromesa(1, 0)
+//   .then(resultado => console.log(resultado))
+//   .catch(error => console.log(error))
+  
+//Sincronismo
+
+function funA(){
+  console.log(1)
+  funB()
+  console.log(2)
+}
+function funB(){
+  console.log(3)
+  funC()
+  console.log(4)
+}
+function funC(){
+  console.log(5)
+}
+
+
+funA() //1,3,5,4,2
+
+//Async/Await
+
+async function divisionAsync(a, b) {
+  try {
+    const response = await divisionPromesa(a, b)
+    console.log("Division async",response)
+  } catch (error) {
+    console.log(error)
+  }
+}
+
+divisionAsync(1,2)
+divisionAsync(1, 0)
+
+console.clear()
+
+async function sumaPromesa(a, b) {
+  return new Promise((resolve, reject) => {
+    if (a === 0 || b === 0) {
+      reject('Suma: Operación innecesaria')
+    } else {
+      resolve(a+b)
+    }
+  })
+}
+async function restaPromesa(a, b) {
+  return new Promise((resolve, reject) => {
+    if (a === 0 || b === 0) {
+      reject('Resta: Operación invalida')
+    } else if (a-b<0) {
+      reject('Resta: La calculadora solo devuelve valores positivos')
+    } else {
+      resolve(a-b)
+    }
+  })
+  
+}
+async function multiplicacionPromesa(a, b) {
+  return new Promise((resolve, reject) => {
+    if (a < 0 || b < 0) {
+      reject('Multiplicacion: La calculadora solo devuelve valores positivos')
+    } else {
+      resolve(a*b)
+    }
+  })
+}
+
+async function operacionesSync(a,b,callback) {
+  try {
+    const response = await callback(a, b)
+    console.log(response)
+    
+  } catch (error) {
+    console.log(error)
+  }
+}
+
+operacionesSync(1,2,sumaPromesa)
+operacionesSync(1,0,sumaPromesa)
+operacionesSync(3,2,restaPromesa)
+operacionesSync(1,2,restaPromesa)
+operacionesSync(1,0,restaPromesa)
+operacionesSync(2,2,multiplicacionPromesa)
+operacionesSync(1,-2,multiplicacionPromesa)
+operacionesSync(-1,2,multiplicacionPromesa)
+operacionesSync(-1,-2,multiplicacionPromesa)
