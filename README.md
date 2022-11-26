@@ -5,7 +5,7 @@ Curso backend
 
 - 💪🏻 Clase 1 11-12-2022 [Repaso javascript variables, funciones, clases](https://coderhouse.zoom.us/rec/share/nsc5k4klm5bs8pPNRRFOIp7ANgZ72WczCV1P4boEcvdg5DcOyitlsoZrOS212J3k.yFBNnQhhXvEjinhV)
 - 💪🏻 Clase 2 18-12-2022 [Repaso funciones, callbacks, async/await](https://coderhouse.zoom.us/rec/share/aCWiFn3GjzdOY38vPFBNMoAky-enUND223Pbuv-B_X7SfcBEl1tEWbCdeqAp3l9D.trU-JQOtQHyt57RX)
-- 💪🏻 Clase 3 16-12-2022 [fs FileSystem y NPM]()
+- 💪🏻 Clase 3 26-12-2022 [fs FileSystem y NPM]()
 
 ## Afterclass
 
