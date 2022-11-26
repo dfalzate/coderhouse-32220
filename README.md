@@ -9,6 +9,7 @@ Curso backend
 ## Afterclass
 
 - ✨ Afterclas 1 11-18-2022 [Instalación herramientas](https://drive.google.com/file/d/1TDUEO6etHvpTS19R47zj2_pqorFv7yOc/view?usp=sharing)
+- ✨ Afterclas 1 11-18-2022 [Ejercicio programación async/await](https://coderhouse.zoom.us/rec/share/tXpVrV0paOEYNPU8EXxey2CI4K6xRpzzKRgCfaGGunh3OdbECJAHH6rpQzG6DKWX.Ly0Q2fw53bBO2CKB)
 
 
 🔥 By Diego Alzate
