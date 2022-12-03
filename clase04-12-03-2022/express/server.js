@@ -1,10 +1,10 @@
 import express from "express";
 
 const app = express();
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
+app.use(express.json()); //POST Body
+app.use(express.urlencoded({ extended: true })); //Query
 
-const usuarios = [
+let usuarios = [
   {
     id: 1,
     nombre: "Luis 1",
@@ -33,6 +33,31 @@ app.get("/bienvenida", (req, res) => {
 
 app.get("/usuarios", (req, res) => {
   res.json(usuarios);
+});
+
+app.post("/usuarios", (req, res) => {
+  const { id, nombre, apellido, edad, correo } = req.body;
+  console.log(id, edad, correo);
+  usuarios.push(req.body);
+  res.status(201).json(usuarios);
+});
+
+app.delete("/usuarios/:idUsuario", (req, res) => {
+  const { idUsuario } = req.params;
+  usuarios = usuarios.filter((usuario) => usuario.id != idUsuario);
+  res.status(200).json(usuarios);
+});
+
+app.put("/usuarios/:idUsuario", (req, res) => {
+  const { idUsuario } = req.params;
+  const { nombre } = req.body;
+  const usuario = usuarios.find((usuario) => {
+    if (usuario.id == idUsuario) {
+      usuario.nombre = nombre;
+    }
+    return usuario;
+  });
+  res.status(202).json(usuario);
 });
 
 app.get("/usuarios/:idUsuario/:nombre", (req, res) => {
