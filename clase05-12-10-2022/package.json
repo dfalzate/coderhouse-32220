@@ -1,0 +1,22 @@
+{
+  "name": "clase05-12-10-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "router": "nodemon --inspect ./router/app.js",
+    "static": "nodemon --inspect ./static/app.js",
+    "middleware": "nodemon --inspect ./middleware/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  }
+}
