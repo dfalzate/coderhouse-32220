@@ -1,16 +1,18 @@
 import { Router } from "express";
+import fs from "fs";
 
 const users = [];
 
-const router = Router();
+const usersRouter = Router();
 
-router.get("/", (req, res) => {
+usersRouter.get("/", (req, res) => {
   res.json(users);
 });
 
-router.post("/", (req, res) => {
+usersRouter.post("/", (req, res) => {
   users.push(req.body);
-  res.status(201).json(users);
+  fs.writeFileSync("users.json", JSON.stringify(users));
+  res.redirect("/views");
 });
 
-export default router;
+export { usersRouter, users };
