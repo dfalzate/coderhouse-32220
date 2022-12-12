@@ -1,0 +1,8 @@
+<h2>Usuarios</h2>
+{{#if title}}
+  {{#each users}}
+    <p>{{name}} {{lastName}} {{age}} {{email}} {{tel}}  </p>
+  {{/each}}
+{{else}}
+  <h2>No enviaste el titulo</h2>
+{{/if}}

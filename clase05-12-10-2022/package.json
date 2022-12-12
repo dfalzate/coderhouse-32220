@@ -6,11 +6,11 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "router": "nodemon --inspect ./router/app.js",
+    "router": "nodemon --ignore users.json --inspect ./router/app.js",
     "static": "nodemon --inspect ./static/app.js",
     "middleware": "nodemon --inspect ./middleware/app.js",
     "multer": "nodemon --inspect ./multer/app.js",
-    "handlebars": "nodemon --inspect ./handlebars/app.js"
+    "handlebars": "nodemon  --inspect ./handlebars/app.js"
   },
   "keywords": [],
   "author": "",
