@@ -42,3 +42,5 @@ function createCarrito(user) {
     console.log(error);
   }
 }
+
+function addProductToCarrito(idProducto, idCarrito) {}
