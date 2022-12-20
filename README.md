@@ -15,7 +15,7 @@ Curso backend
 
 - ✨ Afterclas 1 18-11-2022 [Instalación herramientas](https://drive.google.com/file/d/1TDUEO6etHvpTS19R47zj2_pqorFv7yOc/view?usp=sharing)
 - ✨ Afterclas 2 25-11-2022 [Ejercicio programación async/await](https://coderhouse.zoom.us/rec/share/tXpVrV0paOEYNPU8EXxey2CI4K6xRpzzKRgCfaGGunh3OdbECJAHH6rpQzG6DKWX.Ly0Q2fw53bBO2CKB)
-- ✨ Afterclas 3 19-12-2022 [Ejercicio servidor con express y fs]()
+- ✨ Afterclas 3 19-12-2022 [Ejercicio servidor con express y fs](https://coderhouse.zoom.us/rec/share/FTtUB1evBiWBk-JSa4_IZgjknCqvBlrHxJDegvdMy3oVgCKrsvJAh-ZrOz2gnhCe.TPBbNzmS9C5HlJOi)
 
 
 🔥 By Diego Alzate
