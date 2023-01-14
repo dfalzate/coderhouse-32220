@@ -9,8 +9,8 @@ Curso backend
 - 💪🏻 Clase 4 03-12-2022 [Servidores WEB y Express avanzado](https://coderhouse.zoom.us/rec/share/-R4UzbI_-Bj4XIGAmFE17CnaWXu2XSkejHXnvZzB27JVl2VtxiFiBM7mGpcWpZYw.x5fY7hkpHcAuy72m)
 - 💪🏻 Clase 5 10-12-2022 [Router y Multer & Motores de plantillas](https://coderhouse.zoom.us/rec/play/aLdMm23A6lCaicaiXbgK3nPK17lHRPAKJpUYa0V6NECj7HV9BoeVDmuu8hWMc8dtzh0XoHeiU1p8L2Y.eCr63YYwEkxyVi9y)
 - 💪🏻 Clase 6 17-12-2022 [Motores de plantillas & Aplicación chat con Websockets](https://coderhouse.zoom.us/rec/share/UyKF4o1_1-2TKRjql4pi91echfMFEFInK6gyPkbJJERioHORVKOmupHxJIu5rxXo.nfx_EbqvWgrohG_9)
-- 💪🏻 Clase 7 10-07-2023 [MongoDB & CRUD en MongoDB](https://coderhouse.zoom.us/rec/share/Dv2RPPMHnpLq5pI_lK6OQlVs8aaskEp3lZm9KCGxAxV-ABOTK4xWlfzmNo65lNIa.C20ZNwqmm03O-dm7)
-
+- 💪🏻 Clase 7 07-01-2023 [MongoDB & CRUD en MongoDB](https://coderhouse.zoom.us/rec/share/Dv2RPPMHnpLq5pI_lK6OQlVs8aaskEp3lZm9KCGxAxV-ABOTK4xWlfzmNo65lNIa.C20ZNwqmm03O-dm7)
+- 💪🏻 Clase 8 14-01-2023 [Mongoose & Primera práctica integradora]()
 
 ## Afterclass
 
