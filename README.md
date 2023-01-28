@@ -12,13 +12,13 @@ Curso backend
 - 💪🏻 Clase 7 07-01-2023 [MongoDB & CRUD en MongoDB](https://coderhouse.zoom.us/rec/share/Dv2RPPMHnpLq5pI_lK6OQlVs8aaskEp3lZm9KCGxAxV-ABOTK4xWlfzmNo65lNIa.C20ZNwqmm03O-dm7)
 - 💪🏻 Clase 8 14-01-2023 [Mongoose & Primera práctica integradora](https://coderhouse.zoom.us/rec/share/B_wdD3_BQrd-cfKC5epBdqoEmxaQ--UKO-8aoDQ5FiKcyqPEFXdf0X-RVoul6Tpd.v60jBoToocu_VU1m)
 - 💪🏻 Clase 9 21-01-2023 [Mongo Avanzado (Parte I) & Mongo Avanzado (Parte II)](https://coderhouse.zoom.us/rec/share/XlQebe-VsOIHhts5lS3G-HzswW5O8RqA_JTiWUyx8z7aXGR0_T3LYqbrWzDREub6.xL2R01XIt1lX1jOI)
-- 💪🏻 Clase 9 21-01-2023 [Cookies, Sessions & Storages I & Cookies, Sessions & Storages II)]()
+- 💪🏻 Clase 10 28-01-2023 [Cookies, Sessions & Storages I & Cookies, Sessions & Storages II)]()
 ## Afterclass
 
 - ✨ Afterclas 1 18-11-2022 [Instalación herramientas](https://drive.google.com/file/d/1TDUEO6etHvpTS19R47zj2_pqorFv7yOc/view?usp=sharing)
 - ✨ Afterclas 2 25-11-2022 [Ejercicio programación async/await](https://coderhouse.zoom.us/rec/share/tXpVrV0paOEYNPU8EXxey2CI4K6xRpzzKRgCfaGGunh3OdbECJAHH6rpQzG6DKWX.Ly0Q2fw53bBO2CKB)
 - ✨ Afterclas 3 19-12-2022 [Ejercicio servidor con express y fs](https://coderhouse.zoom.us/rec/share/FTtUB1evBiWBk-JSa4_IZgjknCqvBlrHxJDegvdMy3oVgCKrsvJAh-ZrOz2gnhCe.TPBbNzmS9C5HlJOi)
 - ✨ Afterclas 4 06-01-2023 [Chat usando react y socket.io](https://coderhouse.zoom.us/rec/share/jyY38RNJNI1gHMYTm3tFnNVmQOP2eIM2_qwG1fZws6blu6zeVthm4xMGcjirNXY.WaAAdE4DSOkCCOY3)
-- ✨ Afterclas 4 06-01-2023 [Ejercicio de entrevista - MongoDB Aggregation](https://coderhouse.zoom.us/rec/share/XlQebe-VsOIHhts5lS3G-HzswW5O8RqA_JTiWUyx8z7aXGR0_T3LYqbrWzDREub6.xL2R01XIt1lX1jOI)
+- ✨ Afterclas 5 27-01-2023 [Ejercicio de entrevista - MongoDB Aggregation](https://coderhouse.zoom.us/rec/share/XlQebe-VsOIHhts5lS3G-HzswW5O8RqA_JTiWUyx8z7aXGR0_T3LYqbrWzDREub6.xL2R01XIt1lX1jOI)
 
 🔥 By Diego Alzate
