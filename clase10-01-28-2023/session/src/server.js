@@ -5,6 +5,10 @@ if (process.env.MONGO_URI) import("./config/db.js");
 import cookie from "cookie-parser";
 import session from "express-session";
 import auth from "./middlewares/auth.middleware.js";
+// import FileStore from "session-file-store";
+import mongoStore from "connect-mongo";
+
+// const fileStore = FileStore(session);
 
 const app = express();
 app.use(express.json());
@@ -12,9 +16,22 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cookie());
 app.use(
   session({
+    // store: new fileStore({
+    //   path: "./src/session",
+    //   ttl: 300,
+    //   retries: 0,
+    // }),
+    store: mongoStore.create({
+      mongoUrl: process.env.MONGO_URI,
+      options: {
+        userNewUrlParse: true,
+        useUnifiedTopology: true,
+      },
+    }),
     secret: process.env.SECRET,
     resave: false,
     saveUninitializated: false,
+    cookie: { maxAge: 50000 },
   }),
 );
 
