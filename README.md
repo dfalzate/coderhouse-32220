@@ -15,7 +15,8 @@ Curso backend
 - 💪🏻 Clase 10 28-01-2023 [Cookies, Sessions & Storages I & Cookies, Sessions & Storages II)](https://coderhouse.zoom.us/rec/share/VRxkzUSkHjH7I80Z8oQshJdQbbcwhjB1jMWeZb2VEKUc9FIAl8S8OcAlMmpJkLSc.tGazp4Mq62EhdM6E)
 - 💪🏻 Clase 11 04-02-2023 [Autorización y autenticación & Estrategia de autenticación por terceros + JWT](https://coderhouse.zoom.us/rec/share/d2uT7JpHvcpYLPaNJdhCmeYhfJeHYb6N8jJrL9rKbhLHO4WciDgncKugfTQ4joA.8gF3btFkX7HNi4qb)
 - 💪🏻 Clase 12 11-02-2023 [Passport Avanzado & Ruteo avanzado y estrategias avanzadas de autorización](https://drive.google.com/drive/u/0/folders/1yYz7DZNu-vZ37mB7TM5KPSr_w4Ira8Sl)
-- 💪🏻 Clase 13 11-02-2023 [Segunda práctica integradora & Proceso principal del servidor + Global & Child Process]()
+- 💪🏻 Clase 13 18-02-2023 [Segunda práctica integradora & Proceso principal del servidor + Global & Child Process](https://coderhouse.zoom.us/rec/share/8EnCgvT9LhX4vElJFQbe_O8FPeSXYVL17ikohByj7d_UtBNmOVTsT3RciVioduE4.GiX3_glh_7ujjVn0)
+- 💪🏻 Clase 14 25-02-2023 [Arquitectura por capas & Arquitectura del servidor: Diseño](https://coderhouse.zoom.us/rec/share/8EnCgvT9LhX4vElJFQbe_O8FPeSXYVL17ikohByj7d_UtBNmOVTsT3RciVioduE4.GiX3_glh_7ujjVn0)
 
 ## Afterclass
 
