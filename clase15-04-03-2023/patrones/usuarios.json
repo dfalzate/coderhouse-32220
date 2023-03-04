@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Usuario Coderhouse",
+    "email": "email@email.com",
+    "password": "$2b$10$YPvl5WaYA7HHBpOeypLnpeXiwNFuCj3EJQwYv/MPmXg/Zac2XTo9e",
+    "id": "60bf2667-6e49-47d1-91dd-685caddb0481"
+  },
+  {
+    "name": "Coderhouse",
+    "email": "email1@email.com",
+    "password": "$2b$10$X0f/sTNZCR/d6FObvKRCu.13ytTJYHwXh6TbHsQSOf778QYa5ZVnq",
+    "id": "b77e2f23-fe0b-453d-8c4b-55da18e8cae4"
+  }
+]

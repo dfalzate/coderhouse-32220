@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inyectar cookies
+
+  </title>
+</head>
+<body>
+  <form action="http://localhost:3000/createCookie" method="POST">
+    <label for="name">Nombre</label>
+    <input type="text" name="name">
+    <label for="email">Email</label>
+    <input type="email" name="email">
+    <button type="submit">Enviar</button>
+  </form>
+  <form action="http://localhost:3000/readCookie" method="GET">
+    <button type="submit">Obtener cookie</button>
+  </form>
+</body>
+</html>

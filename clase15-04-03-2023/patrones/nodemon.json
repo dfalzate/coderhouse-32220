@@ -1,0 +1,7 @@
+{
+  "ignore": [
+    "node_modules",
+    "usuarios.json"
+  ],
+  "ext": ".js"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "clase05-12-10-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "router": "nodemon --ignore users.json --inspect ./router/app.js",
+    "static": "nodemon --inspect ./static/app.js",
+    "middleware": "nodemon --inspect ./middleware/app.js",
+    "multer": "nodemon --inspect ./multer/app.js",
+    "handlebars": "nodemon  --inspect ./handlebars/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  }
+}

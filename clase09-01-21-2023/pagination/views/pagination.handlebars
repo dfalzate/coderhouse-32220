@@ -1,0 +1,15 @@
+<h1>Estudiantes</h1>
+{{#each docs}}
+  <div>
+    Nombre:{{this.nombres}}
+    Apellidos:{{this.apellidos}}
+    DNI:{{this.dni}}
+  </div>
+{{/each}}
+{{#if prevPage}}
+  <a href="/pagination?page={{prevPage}}">Anterior</a>
+{{/if}}
+{{page}}
+{{#if nextPage}}
+  <a href="/pagination?page={{nextPage}}">Siguiente</a>
+{{/if}}
