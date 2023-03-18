@@ -17,9 +17,9 @@ Curso backend
 - 💪🏻 Clase 12 11-02-2023 [Passport Avanzado & Ruteo avanzado y estrategias avanzadas de autorización](https://drive.google.com/drive/u/0/folders/1yYz7DZNu-vZ37mB7TM5KPSr_w4Ira8Sl)
 - 💪🏻 Clase 13 18-02-2023 [Segunda práctica integradora & Proceso principal del servidor + Global & Child Process](https://coderhouse.zoom.us/rec/share/8EnCgvT9LhX4vElJFQbe_O8FPeSXYVL17ikohByj7d_UtBNmOVTsT3RciVioduE4.GiX3_glh_7ujjVn0)
 - 💪🏻 Clase 14 25-02-2023 [Arquitectura por capas & Arquitectura del servidor: Diseño](https://coderhouse.zoom.us/rec/share/8EnCgvT9LhX4vElJFQbe_O8FPeSXYVL17ikohByj7d_UtBNmOVTsT3RciVioduE4.GiX3_glh_7ujjVn0)
-- 💪🏻 Clase 15 25-02-2023 [Arquitectura del servidor: Persistencia & Desarrollo de un servidor web basado en capas completo](https://coderhouse.zoom.us/rec/share/Kq1S3NNJhovf_F7etypmHziAi6CLka0eCERzhYOYQg2jOynIr2_ZTcgvJ0n0TjAB.QvBVsPwSabchaYF_)
-- 💪🏻 Clase 16 25-02-2023 [Mailing y mensajería & Testing Mocks](https://coderhouse.zoom.us/rec/share/Kq1S3NNJhovf_F7etypmHziAi6CLka0eCERzhYOYQg2jOynIr2_ZTcgvJ0n0TjAB.QvBVsPwSabchaYF_)
-- 💪🏻 Clase 17 25-02-2023 [Clase 17 - Optimización & Versiones y paquetes]()
+- 💪🏻 Clase 15 04-03-2023 [Arquitectura del servidor: Persistencia & Desarrollo de un servidor web basado en capas completo](https://coderhouse.zoom.us/rec/share/Kq1S3NNJhovf_F7etypmHziAi6CLka0eCERzhYOYQg2jOynIr2_ZTcgvJ0n0TjAB.QvBVsPwSabchaYF_)
+- 💪🏻 Clase 16 11-03-2023 [Mailing y mensajería & Testing Mocks](https://coderhouse.zoom.us/rec/share/Kq1S3NNJhovf_F7etypmHziAi6CLka0eCERzhYOYQg2jOynIr2_ZTcgvJ0n0TjAB.QvBVsPwSabchaYF_)
+- 💪🏻 Clase 17 18-03-2023 [Optimización & Versiones y paquetes]()
 
 ## Afterclass
 
