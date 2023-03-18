@@ -1,0 +1,13 @@
+{
+  "name": "operaciones-coderhouse32220",
+  "version": "1.0.2",
+  "description": "Operaciones matemáticas básicas",
+  "main": "operaciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon --inspect ./operaciones.js "
+  },
+  "keywords": ["suma","resta","division","multiplicacion"],
+  "author": "Coderhouse Backend 32220",
+  "license": "ISC"
+}
