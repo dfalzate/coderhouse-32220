@@ -1,0 +1,39 @@
+config:
+  plugin: metrics-by-endpoint:{}
+  target: "http://localhost:3000/api"
+  phases:
+    - duration: 20
+      arrivalRate: 10
+scenarios:
+  - name: "Crear un usuario y loggearnos"
+    flow:
+      - log: "Obteniendo informacion del usuario"
+      - get:
+          url: "/test/user"
+          capture:
+            - json: "$.first_name"
+              as: "first_name"
+            - json: "$.last_name"
+              as: "last_name"
+            - json: "$.age"
+              as: "age"
+            - json: "$.email"
+              as: "email"
+            - json: "$.password"
+              as: "password"
+      - log: "Crear el usuario en la base de datos"
+      - post:
+          url: "/users"
+          json:
+            first_name: "{{ first_name }}"
+            last_name: "{{ last_name }}"
+            age: "{{ age }}"
+            email: "{{ email }}"
+            password: "{{ password }}"
+      - think: 2
+      - log: "Leggear usuario"
+      - post:
+          url: "/auth/login"
+          json:
+            email: "{{ email }}"
+            password: "{{ password }}"
