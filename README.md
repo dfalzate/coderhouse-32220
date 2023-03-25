@@ -19,7 +19,8 @@ Curso backend
 - 💪🏻 Clase 14 25-02-2023 [Arquitectura por capas & Arquitectura del servidor: Diseño](https://coderhouse.zoom.us/rec/share/8EnCgvT9LhX4vElJFQbe_O8FPeSXYVL17ikohByj7d_UtBNmOVTsT3RciVioduE4.GiX3_glh_7ujjVn0)
 - 💪🏻 Clase 15 04-03-2023 [Arquitectura del servidor: Persistencia & Desarrollo de un servidor web basado en capas completo](https://coderhouse.zoom.us/rec/share/Kq1S3NNJhovf_F7etypmHziAi6CLka0eCERzhYOYQg2jOynIr2_ZTcgvJ0n0TjAB.QvBVsPwSabchaYF_)
 - 💪🏻 Clase 16 11-03-2023 [Mailing y mensajería & Testing Mocks](https://coderhouse.zoom.us/rec/share/Kq1S3NNJhovf_F7etypmHziAi6CLka0eCERzhYOYQg2jOynIr2_ZTcgvJ0n0TjAB.QvBVsPwSabchaYF_)
-- 💪🏻 Clase 17 18-03-2023 [Optimización & Versiones y paquetes]()
+- 💪🏻 Clase 17 18-03-2023 [Optimización & Versiones y paquetes](https://coderhouse.zoom.us/rec/share/1aYewtscw1Et-UlYBB9X-rEkwGgJTfrESKcjFNilUaXpVu5fuyZA5e6dLjYCW1s.BILuQUHIgmAz2WTX)
+- 💪🏻 Clase 18 25-03-2023 [Logging y performance & Clusters & escalabilidad](https://coderhouse.zoom.us/rec/share/SuToIL5f4oCJp_zC30i6fSR8qm41GgglgyTpKtrrQJqKTv-E1z2TDA5Q-dDKYnaB.31PJdhpK-REMPIql)
 
 ## Afterclass
 
