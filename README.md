@@ -21,6 +21,8 @@ Curso backend
 - 💪🏻 Clase 16 11-03-2023 [Mailing y mensajería & Testing Mocks](https://coderhouse.zoom.us/rec/share/Kq1S3NNJhovf_F7etypmHziAi6CLka0eCERzhYOYQg2jOynIr2_ZTcgvJ0n0TjAB.QvBVsPwSabchaYF_)
 - 💪🏻 Clase 17 18-03-2023 [Optimización & Versiones y paquetes](https://coderhouse.zoom.us/rec/share/1aYewtscw1Et-UlYBB9X-rEkwGgJTfrESKcjFNilUaXpVu5fuyZA5e6dLjYCW1s.BILuQUHIgmAz2WTX)
 - 💪🏻 Clase 18 25-03-2023 [Logging y performance & Clusters & escalabilidad](https://coderhouse.zoom.us/rec/share/SuToIL5f4oCJp_zC30i6fSR8qm41GgglgyTpKtrrQJqKTv-E1z2TDA5Q-dDKYnaB.31PJdhpK-REMPIql)
+- 💪🏻 Clase 19 01-04-2023 [Orquestación de contenedores & Práctica integradora](https://coderhouse.zoom.us/rec/play/EdUCIkw9i2Vn661l1u11fDexPVMfyqjGWbMRT33QphdNVybsOFUTMBXHB0iRpXTq5iFpACAnhNkwfWRv.yLUnvMUWB-Amw69B?autoplay=true&startTime=1680359571000)
+
 
 ## Afterclass
 

@@ -1,0 +1,36 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: kubeservice
+spec:
+  selector:
+    app: userapp
+  ports:
+    - port: 80
+      targetPort: 3000
+  type: LoadBalancer
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kubeusers
+spec:
+  replicas: 5
+  selector:
+    matchLabels:
+      app: userapp
+  template:
+    metadata:
+      labels:
+        app: userapp
+    spec:
+      containers:
+        - name: userappcontainer
+          image: coderhouse32220/usercreator:1.0.0
+          ports:
+            - containerPort: 3000
+          env:
+            - name: MONGO_URI
+              value: mongodb+srv://coderhouse32220:coderhouse32220@cluster0.mrkwbua.mongodb.net/users
+          imagePullPolicy: Always
+      
