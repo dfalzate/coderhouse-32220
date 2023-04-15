@@ -22,7 +22,8 @@ Curso backend
 - 💪🏻 Clase 17 18-03-2023 [Optimización & Versiones y paquetes](https://coderhouse.zoom.us/rec/share/1aYewtscw1Et-UlYBB9X-rEkwGgJTfrESKcjFNilUaXpVu5fuyZA5e6dLjYCW1s.BILuQUHIgmAz2WTX)
 - 💪🏻 Clase 18 25-03-2023 [Logging y performance & Clusters & escalabilidad](https://coderhouse.zoom.us/rec/share/SuToIL5f4oCJp_zC30i6fSR8qm41GgglgyTpKtrrQJqKTv-E1z2TDA5Q-dDKYnaB.31PJdhpK-REMPIql)
 - 💪🏻 Clase 19 01-04-2023 [Orquestación de contenedores & Práctica integradora](https://coderhouse.zoom.us/rec/play/EdUCIkw9i2Vn661l1u11fDexPVMfyqjGWbMRT33QphdNVybsOFUTMBXHB0iRpXTq5iFpACAnhNkwfWRv.yLUnvMUWB-Amw69B?autoplay=true&startTime=1680359571000)
-
+- 💪🏻 Clase 20 08-04-2023 [Seguridad & Documentación de API](https://coderhouse.zoom.us/rec/share/9aSKYNUUKlL_e3OzBeguvRenOpcxe2xcbKWLcq1d3ta_pe3-mG_wNVcOaVK1pWaf.C8SRBVDdBe3wjVey)
+- 💪🏻 Clase 21 15-04-2023 [Testing unitario & Testing avanzado](https://coderhouse.zoom.us/rec/share/CGwmQqiT0itOpWza5iW-AanQUQaCiTSKJpcj6LlLaKfhTEixcaO0FqusWh-jLuHY.4Y0O3asCgNOMq8zm)
 
 ## Afterclass
 
