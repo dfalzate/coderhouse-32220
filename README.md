@@ -24,6 +24,7 @@ Curso backend
 - 💪🏻 Clase 19 01-04-2023 [Orquestación de contenedores & Práctica integradora](https://coderhouse.zoom.us/rec/play/EdUCIkw9i2Vn661l1u11fDexPVMfyqjGWbMRT33QphdNVybsOFUTMBXHB0iRpXTq5iFpACAnhNkwfWRv.yLUnvMUWB-Amw69B?autoplay=true&startTime=1680359571000)
 - 💪🏻 Clase 20 08-04-2023 [Seguridad & Documentación de API](https://coderhouse.zoom.us/rec/share/9aSKYNUUKlL_e3OzBeguvRenOpcxe2xcbKWLcq1d3ta_pe3-mG_wNVcOaVK1pWaf.C8SRBVDdBe3wjVey)
 - 💪🏻 Clase 21 15-04-2023 [Testing unitario & Testing avanzado](https://coderhouse.zoom.us/rec/share/CGwmQqiT0itOpWza5iW-AanQUQaCiTSKJpcj6LlLaKfhTEixcaO0FqusWh-jLuHY.4Y0O3asCgNOMq8zm)
+- 💪🏻 Clase 22 22-04-2023 [Frameworks de desarrollo: Nest js I & II](https://coderhouse.zoom.us/rec/share/EJH03vxoZK-NwvdVSSbE-4VQ_D_ZFL5JtOZAtH1haUzBqqyrWMKOjS9NBPBrLrq6.Hac7_Cl7yFEZTF-0)
 
 ## Afterclass
 
