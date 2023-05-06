@@ -1,4 +1,4 @@
-# coderhouse-32220
+# coderhouse-32220 Felicitaciones Backend developers 😎!
 Curso backend
 
 ## Clases
@@ -26,6 +26,7 @@ Curso backend
 - 💪🏻 Clase 21 15-04-2023 [Testing unitario & Testing avanzado](https://coderhouse.zoom.us/rec/share/CGwmQqiT0itOpWza5iW-AanQUQaCiTSKJpcj6LlLaKfhTEixcaO0FqusWh-jLuHY.4Y0O3asCgNOMq8zm)
 - 💪🏻 Clase 22 22-04-2023 [Frameworks de desarrollo: Nest js I & II](https://coderhouse.zoom.us/rec/share/EJH03vxoZK-NwvdVSSbE-4VQ_D_ZFL5JtOZAtH1haUzBqqyrWMKOjS9NBPBrLrq6.Hac7_Cl7yFEZTF-0)
 - 💪🏻 Clase 23 29-04-2023 [Práctica integradora & Product Cloud: Despliegue de nuestra aplicación](https://coderhouse.zoom.us/rec/share/X52Zf_LhrOCoiFsDjH2Kg-IbC5ifm_Zf1ylwFZ9OBk2kdfUQDYmA2wCt9yhDOd-s.pJUhqFGjpFnz6h_P?startTime=1682778698000)
+- 💪🏻 Clase 24 06-05-2023 [Pasarelas de pago](https://zoom.us/rec/play/lNFYjuznRh64P8czhZgaZUsg6spCLjgfNUPLP-Q3JwQ-LopeaWEsc2GQqygW7dDzASx2brFeIln7mmeI.4Vx9fo-iQm9ZVorl?autoplay=true&startTime=1683383454000)
 
 ## Afterclass
 
