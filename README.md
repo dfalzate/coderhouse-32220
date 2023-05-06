@@ -34,5 +34,6 @@ Curso backend
 - ✨ Afterclas 3 19-12-2022 [Ejercicio servidor con express y fs](https://coderhouse.zoom.us/rec/share/FTtUB1evBiWBk-JSa4_IZgjknCqvBlrHxJDegvdMy3oVgCKrsvJAh-ZrOz2gnhCe.TPBbNzmS9C5HlJOi)
 - ✨ Afterclas 4 06-01-2023 [Chat usando react y socket.io](https://coderhouse.zoom.us/rec/share/jyY38RNJNI1gHMYTm3tFnNVmQOP2eIM2_qwG1fZws6blu6zeVthm4xMGcjirNXY.WaAAdE4DSOkCCOY3)
 - ✨ Afterclas 5 27-01-2023 [Ejercicio de entrevista - MongoDB Aggregation](https://coderhouse.zoom.us/rec/share/XlQebe-VsOIHhts5lS3G-HzswW5O8RqA_JTiWUyx8z7aXGR0_T3LYqbrWzDREub6.xL2R01XIt1lX1jOI)
+- ✨ Afterclas 6 05-05-2023 [Repaso general](https://coderhouse.zoom.us/rec/share/928sct5kPZNEJEDtvr_thJ00aMAhYRNhXMzmRMKeBs87xD0s_8jIfF_FaY3Mwt2o.DoV3JSQiJe_0-43H)
 
 🔥 By Diego Alzate
